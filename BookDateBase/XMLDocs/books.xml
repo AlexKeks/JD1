@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+
+	<book id="1">
+		<!-- <id>1</id> -->
+		<title>Book</title>
+		<pages>10</pages>
+	</book>
+
+	<book id="2">
+		<title>Book2</title>
+		<pages>20</pages>
+	</book>
+
+
+</books>

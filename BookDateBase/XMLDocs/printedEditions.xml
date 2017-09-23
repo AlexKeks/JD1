@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<papers xmlns="http://www.it-academy.by/librгarySchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.it-academy.by/printedEditionsSchema printedEditionsSchema.xsd">
+
+	<book id="1">
+		<title>Book1</title>
+		<pages>100</pages>
+		<autor>Autor1</autor>
+	</book>
+	<book id="2">
+		<title>Book2</title>
+		<pages>200</pages>
+		<autor>Autor2</autor>
+	</book>
+
+	<journal number="1">
+		<title>Journal1</title>
+		<pages>11</pages>
+		<month>June</month>
+	</journal>
+	<journal number="2">
+		<title>Journal2</title>
+		<pages>22</pages>
+		<month>July</month>
+	</journal>
+
+	<newspaper number="1">
+		<month>January</month>
+		<pages>10</pages>
+		<circulation>1000</circulation>
+	</newspaper>
+	<newspaper number="2">
+		<month>February</month>
+		<pages>20</pages>
+		<circulation>2000</circulation>
+	</newspaper>
+
+</papers>

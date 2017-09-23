@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+
+<books xmlns="http://www.it-academy.by/librгarySchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.it-academy.by/librarySchema librarySchema.xsd">
+	
+	<book id="1">
+		<!-- <id>1</id> -->
+		<ISBN number="0000"/> 
+		<title>Book</title>
+		<pages>10</pages>
+		<autor>
+			<name>Autor1</name>
+			<date-of-birth>1990-01-20</date-of-birth>
+		</autor>
+		<autor>
+			<name>Autor1</name>
+			<date-of-birth>1990-01-20</date-of-birth>
+		</autor>
+	</book>
+	<book id="2">
+
+		<title>Book2</title>
+		<pages>20</pages>
+		<autor>
+			<name>Autor1</name>
+			<date-of-birth>1992-01-20</date-of-birth>
+		</autor>
+	</book>
+	<book id="3">
+
+		<title>Book3</title>
+		<pages>30</pages>
+		<autor>
+			<name>Autor3</name>
+			<date-of-birth>1993-01-20</date-of-birth>
+		</autor>
+	</book>
+</books>
